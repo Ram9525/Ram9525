@@ -36,7 +36,7 @@ Welcome to my GitHub profile! Here, you'll find a collection of my projects, exp
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ram9525&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### 🔥 Streak Stats  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ram9525&theme=tokyonight)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ram9525)](https://git.io/streak-stats)
 
 ---
 
