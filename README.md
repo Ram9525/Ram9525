@@ -1,25 +1,44 @@
-# 👋 Hi, I'm Ram Kumar!
+# 👋 Hi, I'm Ram Kumar!  
 
-Welcome to my GitHub profile! I’m passionate about technology, coding, and continuous learning. Here, you’ll find a collection of my projects, contributions, and experiments as I continue to explore and grow in the world of software development.
+🚀 **Passionate Developer | Open-Source Contributor | Tech Enthusiast**  
 
-## 🔧 Skills
-- Programming Languages: Python, JavaScript, SQL
-- Web Development: HTML, CSS, Tailwind CSS, React, Node.js
-- Database Management: MySQL, PostgreSQL
-- Tools: Git, GitHub, VS Code
+Welcome to my GitHub profile! Here, you'll find a collection of my projects, experiments, and contributions as I dive deeper into the world of **software development, web technologies, and problem-solving.**  
 
-## 🌱 Current Focus
-I’m currently focused on:
-- Building full-stack web applications with React and Node.js.
-- Exploring advanced SQL and database optimization techniques.
-- Participating in hackathons and open-source projects to contribute to real-world solutions.
+---
 
-## 📈 GitHub Stats
-![Ram Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ram9525&show_icons=true&theme=default)
+## 🔥 About Me  
+💡 **Curious Mind:** Always exploring new technologies & frameworks.  
+💻 **Web Enthusiast:** Passionate about full-stack development.  
+🎯 **Hackathon Spirit:** Love solving real-world challenges through code.  
+📚 **Lifelong Learner:** Continuously improving my skills & knowledge.  
 
-## 📫 Let's Connect!
-- Email: [ramkumar18092005@gmail.com](mailto:ramkumar18092005@gmail.com)
-- LinkedIn: [ram-kumar999](https://www.linkedin.com/in/ram-kumar999/)
-- Twitter: [RamKumar9525302](https://twitter.com/RamKumar9525302)
+---
 
-Thanks for visiting! Don't forget to star ⭐️ the repositories you like, and feel free to reach out if you’d like to collaborate on a project!
+## 🔧 Tech Stack & Skills  
+🛠️ **Languages:** Python, JavaScript, TypeScript, SQL  
+🌐 **Frontend:** HTML, CSS, Tailwind CSS, React.js  
+🖥️ **Backend:** Node.js, Express.js  
+🗄️ **Databases:** MongoDB, MySQL, PostgreSQL  
+🛠️ **Tools & Platforms:** Git, GitHub, VS Code, Docker  
+
+---
+
+## 🌱 Current Focus  
+🔹 **Building** full-stack applications with **React & Node.js**  
+🔹 **Mastering** advanced **SQL & database optimization**  
+🔹 **Contributing** to open-source & participating in **hackathons**  
+
+---
+
+## 📊 GitHub Stats  
+![Ram Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ram9525&show_icons=true&theme=tokyonight)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ram9525&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+
+---
+
+## 📫 Let's Connect!  
+📩 **Email:** [ramkumar18092005@gmail.com](mailto:ramkumar18092005@gmail.com)  
+💼 **LinkedIn:** [ram-kumar999](https://www.linkedin.com/in/ram-kumar999/)  
+🐦 **Twitter:** [RamKumar9525302](https://twitter.com/RamKumar9525302)  
+
+🚀 **Let's collaborate!** Feel free to reach out if you have an exciting project idea or just want to geek out about tech! 😃  
