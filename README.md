@@ -15,7 +15,7 @@ I’m currently focused on:
 - Participating in hackathons and open-source projects to contribute to real-world solutions.
 
 ## 📈 GitHub Stats
-![Ram Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![Ram Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ram9525&show_icons=true&theme=default)
 
 ## 📫 Let's Connect!
 - Email: [ramkumar18092005@gmail.com](mailto:ramkumar18092005@gmail.com)
